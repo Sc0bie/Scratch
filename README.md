@@ -1,2 +1,2 @@
-# Scratch
+# Scratch script
 Test Setup Repository
